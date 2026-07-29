@@ -1,1 +1,7 @@
-
+{
+    "JSON":
+    {
+        "expanded" : "JavaScript Object Notation",
+        "definition" : "a lightweight, text-based data format used to store and transport information."
+    }
+}
