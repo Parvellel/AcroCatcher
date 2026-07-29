@@ -2,10 +2,13 @@
   "manifest_version": 3,
   "name": "AcroCatcher",
   "version": "1.0",
-  "permissions": ["activeTab", "scripting", "nativeMessaging", "storage"],
+  "permissions": ["activeTab", "scripting", "storage"],
   "host_permissions": [
     "https://raw.githubusercontent.com/Parvellel/AcroCatcher/refs/heads/main/AcroCatcherDataHub.json"
   ],
   "background": { "service_worker": "background.js" },
-  "action": { "default_title": "Look up acronyms on this page" }
+  "action": { 
+    "default_popup": "popup.html",
+    "default_title": "Look up acronyms on this page" 
+  }
 }

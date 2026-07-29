@@ -1,0 +1,26 @@
+*{
+    
+}
+
+body
+{
+    max-width: 400px;
+    max-height: 800px;
+    background-color: darkslategrey;
+    display: grid;
+    grid-template-rows: 60px auto;
+    grid-template-areas: 
+    "header"
+    "content";
+    margin: 0px;
+    box-shadow: 0px -100px;
+}
+
+header
+{
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    background-color: #26263b;
+    box-shadow: 0px 5px 3px black;
+}
