@@ -1,6 +1,10 @@
 // Triggered by clicking the extension icon
 chrome.action.onClicked.addListener(async (tab) => {
-  
+  await chrome.scripting.executeScript({
+    target: { tabId: tab.id },
+    files: ["content.js"],
+  });
+
   chrome.tabs.sendMessage(tab.id, { type: "GET_PAGE_TEXT" }, (response) => {
     if (chrome.runtime.lastError) {
       console.error("Content script not available on this page:", chrome.runtime.lastError);
