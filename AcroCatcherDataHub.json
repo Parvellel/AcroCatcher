@@ -3,12 +3,12 @@
     {
         "expanded" : "JavaScript Object Notation",
         "definition" : "A lightweight, text-based data format used to store and transport information."
-    }
+    },
     "CSS":
     {
         "expanded" : "Cascading Style Sheets",
         "definition" : "A stylesheet language used to control the visual presentation, design, and layout of a website."
-    }
+    },
     "HTML":
     {
         "expanded" : "HyperText Markup Language",
