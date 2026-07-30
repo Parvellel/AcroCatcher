@@ -1,12 +1,8 @@
-*{
-    
-}
-
 body
 {
     max-width: 400px;
     max-height: 800px;
-    background-color: darkslategrey;
+    background-color: #1C7293;
     display: grid;
     grid-template-rows: 60px auto;
     grid-template-areas: 
@@ -21,6 +17,22 @@ header
     color: antiquewhite;
     display: flex;
     justify-content: center;
-    background-color: #26263b;
-    box-shadow: 0px 5px 3px black;
+    background-color: #1B3B6F;
+    box-shadow: 0px 3px 7px black;
+}
+
+.entry{
+    border-radius: 10px;
+    padding: 3%;
+    padding-top: 10px;
+    margin: 3%;
+    color: antiquewhite;
+    background-color: #065A82;
+    box-shadow: 2px 2px 5px black;
+}
+
+#scan{
+    margin: 20px;
+    background-color: #9EB3C2;
+    color:black;
 }

@@ -4,13 +4,28 @@ function extractAcronyms(pageText) {
 }
 
 function compareAcronyms(foundAcronyms, acronymDict) {
-  for (const acronym of foundAcronyms) {
-    if (acronymDict.hasOwnProperty(acronym)) {
-      console.log(`YES — "${acronym}" is listed:`, acronymDict[acronym]);
-    } else {
-      console.log(`NO — "${acronym}" is not listed in the JSON.`);
+    let content="";
+    let newAcros=[];
+    for (const acronym of foundAcronyms) {
+        if (acronymDict.hasOwnProperty(acronym)) {
+            console.log(`YES — "${acronym}" is listed:`, acronymDict[acronym]);
+            content+= generateEntry(acronym,acronymDict[acronym].expanded,acronymDict[acronym].definition);
+            console.log(content);
+        } else {
+            console.log(`NO — "${acronym}" is not listed in the JSON.`);
+            newAcros.push(acronym);
+        }
     }
-  }
+    for (const newAcro of newAcros){
+        content+=`<h2>Unknown Acronym: ${newAcro}</h2><button type="button" id="${newAcro}FormFill" class="FormFillButton">Request Addition?</button>`
+    }
+  console.log(content);
+  document.querySelector("#entries").innerHTML = content;
+}
+
+function generateEntry(acronym, expantion, definition){
+    let segment = `<div class='entry'><h2>${acronym}\n</h2><h3>${expantion}\n</h3><p>${definition}</p></div>`;
+    return segment;
 }
 
 async function scanButtonClicked() {

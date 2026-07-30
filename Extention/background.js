@@ -7,7 +7,6 @@ async function refreshAcronymDict() {
       throw new Error(`Fetch failed: ${res.status} ${res.statusText}`);
     }
     const dict = await res.json();
-
     await chrome.storage.local.set({
       acronymDict: dict,
       lastUpdated: Date.now(),
