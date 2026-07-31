@@ -9,6 +9,9 @@ function compareAcronyms(foundAcronyms, acronymDict) {
     for (const acronym of foundAcronyms) {
         if (acronymDict.hasOwnProperty(acronym)) {
             console.log(`YES — "${acronym}" is listed:`, acronymDict[acronym]);
+            if(acronymDict[acronym].definition==null){
+                content+= generateEntry(acronym,acronymDict[acronym].expanded,"N/A");
+            }
             content+= generateEntry(acronym,acronymDict[acronym].expanded,acronymDict[acronym].definition);
             console.log(content);
         } else {
@@ -24,7 +27,11 @@ function compareAcronyms(foundAcronyms, acronymDict) {
 }
 
 function generateEntry(acronym, expantion, definition){
-    let segment = `<div class='entry'><h2>${acronym}\n</h2><h3>${expantion}\n</h3><p>${definition}</p></div>`;
+    if(definition=="N/A"){
+        let segment = `<div class='entry'><h2>${acronym}\n</h2><h3>${expantion}\n</h3>`;
+    }else{
+        let segment = `<div class='entry'><h2>${acronym}\n</h2><h3>${expantion}\n</h3><p>${definition}</p></div>`;
+    }
     return segment;
 }
 

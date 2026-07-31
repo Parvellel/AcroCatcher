@@ -13,5 +13,2816 @@
     {
         "expanded" : "HyperText Markup Language",
         "definition" : "Serves as the standard markup language used to create and structure the framework of web pages"
+    },
+    "AAA": {
+        "expanded": "authentication, authorization, and accounting"
+    },
+    "AAL5": {
+        "expanded": "ATM adaptation layer 5"
+    },
+    "ABM": {
+        "expanded": "asynchronous balanced mode"
+    },
+    "ABR": {
+        "expanded": "Area Border Router"
+    },
+    "AC": {
+        "expanded": "alternating current"
+    },
+    "ACE": {
+        "expanded": "Allegro Crypto Engine"
+    },
+    "ACIP": {
+        "expanded": "ATM Cable Interface Processor"
+    },
+    "ACK": {
+        "expanded": "acknowledgment"
+    },
+    "ACL": {
+        "expanded": "access control list"
+    },
+    "ACO": {
+        "expanded": "alarm cutoff"
+    },
+    "ACTLU": {
+        "expanded": "activate logical unit"
+    },
+    "ACTPU": {
+        "expanded": "activate physical unit"
+    },
+    "ADSL": {
+        "expanded": "asymmetric digital subscriber line"
+    },
+    "AFI": {
+        "expanded": "Address Family Identifier"
+    },
+    "AH": {
+        "expanded": "Authentication Header"
+    },
+    "AIC": {
+        "expanded": "Alarm Interface Controller"
+    },
+    "AIM": {
+        "expanded": "Advanced Interface Module; advanced integration module"
+    },
+    "AIP": {
+        "expanded": "ATM Interface Processor"
+    },
+    "AIS": {
+        "expanded": "Alarm indication"
+    },
+    "ALC": {
+        "expanded": "ATM line card"
+    },
+    "ALPS": {
+        "expanded": "Airline Product Set"
+    },
+    "AMD": {
+        "expanded": "Advanced Micro Devices"
+    },
+    "ANR": {
+        "expanded": "Automatic Network Routing"
+    },
+    "ANSI": {
+        "expanded": "American National Standards Institute"
+    },
+    "ANY-PHY": {
+        "expanded": "Any physical layer-data link layer"
+    },
+    "AP": {
+        "expanded": "access point; authentication proxy"
+    },
+    "API": {
+        "expanded": "application programming interface"
+    },
+    "APING": {
+        "expanded": "APPC Ping"
+    },
+    "APN": {
+        "expanded": "access point name"
+    },
+    "APPC": {
+        "expanded": "Advanced Program-to-Program Communications"
+    },
+    "APPN": {
+        "expanded": "Advanced Peer-to-Peer Networking"
+    },
+    "APS": {
+        "expanded": "automatic protection switching"
+    },
+    "AQD": {
+        "expanded": "average queue depth"
+    },
+    "ARAP": {
+        "expanded": "AppleTalk Remote Access Protocol"
+    },
+    "ARB": {
+        "expanded": "Adaptive Rate-Based"
+    },
+    "ARP": {
+        "expanded": "Address Resolution Protocol"
+    },
+    "ARQ": {
+        "expanded": "automatic repeat request"
+    },
+    "AS": {
+        "expanded": "autonomous system"
+    },
+    "ASCU": {
+        "expanded": "agent-set control unit"
+    },
+    "ASIC": {
+        "expanded": "application-specific integrated circuit"
+    },
+    "ASP": {
+        "expanded": "ATM switch processor"
+    },
+    "ATA": {
+        "expanded": "Advanced Technology Attachment; Analog Telephone Adaptor"
+    },
+    "ATF": {
+        "expanded": "area to free"
+    },
+    "ATM": {
+        "expanded": "Asynchronous Transfer Mode"
+    },
+    "AToM": {
+        "expanded": "Any Transport over MPLS"
+    },
+    "AURP": {
+        "expanded": "AppleTalk Update-Based Routing Protocol"
+    },
+    "AutoRP": {
+        "expanded": "Auto-Rendezvous Point"
+    },
+    "AVL": {
+        "expanded": "approved vendor list"
+    },
+    "BAP": {
+        "expanded": "Bandwidth Allocation Protocol"
+    },
+    "BB": {
+        "expanded": "broadband"
+    },
+    "BBI": {
+        "expanded": "begin bracket indicator"
+    },
+    "BCS": {
+        "expanded": "business critical solution"
+    },
+    "BERT": {
+        "expanded": "bit error rate tester"
+    },
+    "BFR": {
+        "expanded": "Bigger, Faster Router"
+    },
+    "BFRP": {
+        "expanded": "big fast route processor"
+    },
+    "BGP": {
+        "expanded": "Border Gateway Protocol"
+    },
+    "BGPPA": {
+        "expanded": "Border Gateway Protocol Policy Accounting"
+    },
+    "BIC": {
+        "expanded": "backplane interface card"
+    },
+    "BIDI": {
+        "expanded": "bidirectional bus"
+    },
+    "BIND": {
+        "expanded": "Berkeley Internet Name Domain"
+    },
+    "BIP": {
+        "expanded": "bit interleaved parity"
+    },
+    "BIS": {
+        "expanded": "Broadband Interface Shelf"
+    },
+    "BLLI": {
+        "expanded": "Broadband Low Layer Information"
+    },
+    "BMA": {
+        "expanded": "Buffer Management ASIC"
+    },
+    "BOOM": {
+        "expanded": "10BASE-T Ethernet LAN interface card"
+    },
+    "BOOTP": {
+        "expanded": "Bootstrap Protocol"
+    },
+    "BPDU": {
+        "expanded": "bridge protocol data unit"
+    },
+    "BPI": {
+        "expanded": "baseline privacy interface"
+    },
+    "BPVC": {
+        "expanded": "Bridged Permanent Virtual Circuit"
+    },
+    "BR": {
+        "expanded": "Undefined"
+    },
+    "BRI": {
+        "expanded": "Basic Rate Interface"
+    },
+    "BRF": {
+        "expanded": "Bridge Relay Function"
+    },
+    "BSC": {
+        "expanded": "Binary Synchronous Communications"
+    },
+    "BSS": {
+        "expanded": "Business Support System"
+    },
+    "BSTUN": {
+        "expanded": "Block Serial Tunnel"
+    },
+    "BTU": {
+        "expanded": "British thermal unit"
+    },
+    "BUS": {
+        "expanded": "broadcast-and-unknown server"
+    },
+    "CA": {
+        "expanded": "certification authority"
+    },
+    "CAIM": {
+        "expanded": "Compression Advanced Interface Module"
+    },
+    "CAM": {
+        "expanded": "content-addressable memory"
+    },
+    "CAMR": {
+        "expanded": "Cisco Access Metro Router"
+    },
+    "CAR": {
+        "expanded": "Undefined"
+    },
+    "CAS": {
+        "expanded": "channel-associated signaling"
+    },
+    "CASA": {
+        "expanded": "Cisco Appliance and Services Architecture"
+    },
+    "CBAC": {
+        "expanded": "Context-Based Access Control"
+    },
+    "CBC": {
+        "expanded": "Cell Bus Controller"
+    },
+    "CBI": {
+        "expanded": "Cell Bus Interface"
+    },
+    "CBus": {
+        "expanded": "CiscoBus"
+    },
+    "CBWFQ": {
+        "expanded": "Class Based Weighted Fair Queueing"
+    },
+    "CCA": {
+        "expanded": "Common Configuration Architecture"
+    },
+    "CCAPI": {
+        "expanded": "call control API"
+    },
+    "CCB": {
+        "expanded": "call control block; configuration control block"
+    },
+    "CCO": {
+        "expanded": "Cisco Connection Online"
+    },
+    "CCW": {
+        "expanded": "channel command word"
+    },
+    "CDI": {
+        "expanded": "Common Driver Interface"
+    },
+    "CDL": {
+        "expanded": "Converged Data Link"
+    },
+    "CDM": {
+        "expanded": "cable data modem"
+    },
+    "CDP": {
+        "expanded": "Cisco Discovery Protocol"
+    },
+    "CDR": {
+        "expanded": "clock and data recovery"
+    },
+    "CE": {
+        "expanded": "certificate enrollment"
+    },
+    "CEB": {
+        "expanded": "Common EMS Base"
+    },
+    "CEBI": {
+        "expanded": "conditional end bracket indicator"
+    },
+    "CEF": {
+        "expanded": "Cisco Express Forwarding"
+    },
+    "CES": {
+        "expanded": "circuit emulation service"
+    },
+    "CET": {
+        "expanded": "Cisco Encryption Technology"
+    },
+    "CF": {
+        "expanded": "Checkpoint Facility"
+    },
+    "CFI": {
+        "expanded": "Common Flash Interface"
+    },
+    "CGMP": {
+        "expanded": "Cisco Group Management Protocol"
+    },
+    "CGX": {
+        "expanded": "CryptoGraphics eXtensions"
+    },
+    "CHAP": {
+        "expanded": "Challenge Handshake Authentication Protocol"
+    },
+    "cHPI": {
+        "expanded": "compact Host Port Interface"
+    },
+    "CI": {
+        "expanded": "connection identifier"
+    },
+    "CICS": {
+        "expanded": "Customer Information Control System"
+    },
+    "CIP": {
+        "expanded": "Channel Interface Processor"
+    },
+    "CIR": {
+        "expanded": "committed information rate"
+    },
+    "CIS": {
+        "expanded": "Card Information Services"
+    },
+    "CIU": {
+        "expanded": "Communication Interface Unit"
+    },
+    "CLAW": {
+        "expanded": "Common Link Access for Workstations"
+    },
+    "CLI": {
+        "expanded": "command-line interface"
+    },
+    "CLNS": {
+        "expanded": "Connectionless Network Service"
+    },
+    "CLS": {
+        "expanded": "Cisco link services"
+    },
+    "CLSI": {
+        "expanded": "Cisco link services interface"
+    },
+    "CMCC": {
+        "expanded": "Cisco Mainframe Channel Connection"
+    },
+    "CMNS": {
+        "expanded": "Connection Mode Network Service"
+    },
+    "CMPC": {
+        "expanded": "Cisco Multipath Channel"
+    },
+    "CMTS": {
+        "expanded": "cable modem termination system"
+    },
+    "CNR": {
+        "expanded": "Cisco Network Registrar"
+    },
+    "CNOS": {
+        "expanded": "change number of sessions"
+    },
+    "CNS": {
+        "expanded": "Cisco Networking Services"
+    },
+    "CNSP": {
+        "expanded": "Complete Number Sequence PDU"
+    },
+    "COAPS": {
+        "expanded": "Count of APS switchovers"
+    },
+    "codec": {
+        "expanded": "coder-decoder"
+    },
+    "CoS": {
+        "expanded": "class of service"
+    },
+    "CoSQ": {
+        "expanded": "Class of Service Queues"
+    },
+    "COT": {
+        "expanded": "continuity testing"
+    },
+    "CP": {
+        "expanded": "control point; coprocessor"
+    },
+    "CPA": {
+        "expanded": "Channel Port Adapter"
+    },
+    "CPE": {
+        "expanded": "customer premises equipment"
+    },
+    "CPI": {
+        "expanded": "common part indicator"
+    },
+    "CPI-C": {
+        "expanded": "common programming interface for communications"
+    },
+    "CPK": {
+        "expanded": "Undefined"
+    },
+    "CPM": {
+        "expanded": "Combination Port Module"
+    },
+    "CPUIF": {
+        "expanded": "Undefined"
+    },
+    "CRC": {
+        "expanded": "cyclic redundancy check"
+    },
+    "CRF": {
+        "expanded": "Concentrator Relay Function"
+    },
+    "CRL": {
+        "expanded": "certificate revocation list"
+    },
+    "cRTP": {
+        "expanded": "compressed Real-Time Protocol"
+    },
+    "CRV": {
+        "expanded": "call reference value"
+    },
+    "CSA": {
+        "expanded": "compression service adapter"
+    },
+    "CSAR": {
+        "expanded": "Cisco Cell Segmentation and Reassembly"
+    },
+    "CSC": {
+        "expanded": "clock switch card"
+    },
+    "CSG": {
+        "expanded": "Content Services Gateway"
+    },
+    "CSI": {
+        "expanded": "called subscriber identification"
+    },
+    "CSM": {
+        "expanded": "call switching mode; call switching module"
+    },
+    "CSNA": {
+        "expanded": "Cisco SNA"
+    },
+    "CSNP": {
+        "expanded": "Complete Sequence Number PDU"
+    },
+    "CSU": {
+        "expanded": "channel service unit"
+    },
+    "CTC": {
+        "expanded": "Cisco Transport Controller"
+    },
+    "CTL": {
+        "expanded": "Certificate Trust List"
+    },
+    "CTRC": {
+        "expanded": "Cisco Transaction Connection"
+    },
+    "CTS": {
+        "expanded": "Clear To Send"
+    },
+    "CV": {
+        "expanded": "Cisco View"
+    },
+    "CWAN": {
+        "expanded": "Constellation WAN"
+    },
+    "CWTLC": {
+        "expanded": "Constellation Wan Toaster Line Card"
+    },
+    "CyBus": {
+        "expanded": "Cisco Extended Bus"
+    },
+    "DAE": {
+        "expanded": "data aggregrator end"
+    },
+    "DBus": {
+        "expanded": "diagnostic bus"
+    },
+    "DC": {
+        "expanded": "direct-connect; direct current"
+    },
+    "DCD": {
+        "expanded": "data carrier detect"
+    },
+    "DCE": {
+        "expanded": "data communications equipment"
+    },
+    "dCEF": {
+        "expanded": "distributed Cisco Express Forwarding"
+    },
+    "DDOS": {
+        "expanded": "distributed denial of service"
+    },
+    "DDR": {
+        "expanded": "dial-on-demand routing"
+    },
+    "DDSM": {
+        "expanded": "Digital Data Services Manager"
+    },
+    "DECnet": {
+        "expanded": "Digital Equipment Corporation network"
+    },
+    "DEMUX": {
+        "expanded": "demultiplexer"
+    },
+    "DFC": {
+        "expanded": "dial feature card"
+    },
+    "DFP": {
+        "expanded": "Dynamic Feedback Protocol"
+    },
+    "DFRAC": {
+        "expanded": "Dual Framer and RAC"
+    },
+    "DHCP": {
+        "expanded": "Dynamic Host Configuration Protocol"
+    },
+    "DHCPv6": {
+        "expanded": "Dynamic Host Configuration Protocol, version 6"
+    },
+    "DIB": {
+        "expanded": "Directory Information Base"
+    },
+    "DIP-4": {
+        "expanded": "4-bit Diagonal Interleaved Parity"
+    },
+    "DLC": {
+        "expanded": "data-link connection; data-link control"
+    },
+    "DLCI": {
+        "expanded": "data-link connection identifier"
+    },
+    "dLFI": {
+        "expanded": "Distributed Link Fragmentation and Interleaving"
+    },
+    "dLFIoATM": {
+        "expanded": "Distributed Link Fragmentation and Interleaving over ATM"
+    },
+    "dLFIoFR": {
+        "expanded": "Distributed Link Fragmentation and Interleaving over Frame Relay"
+    },
+    "DLR": {
+        "expanded": "designated local retransmitter"
+    },
+    "DLSw": {
+        "expanded": "data-link switching"
+    },
+    "DLU": {
+        "expanded": "dependent logical unit; destination logical unit; dynamic logical unit"
+    },
+    "DLUR": {
+        "expanded": "dependent logical unit requester"
+    },
+    "DLUS": {
+        "expanded": "dependent logical unit server"
+    },
+    "DM": {
+        "expanded": "dense mode; disconnect mode"
+    },
+    "DMA": {
+        "expanded": "direct memory access"
+    },
+    "DMAC": {
+        "expanded": "destination MAC"
+    },
+    "DML": {
+        "expanded": "distributed multilink"
+    },
+    "DMLP": {
+        "expanded": "Distributed Multilink Point-to-Point Protocol"
+    },
+    "DNIS": {
+        "expanded": "dialed number identification service"
+    },
+    "DNS": {
+        "expanded": "Domain Name Server; Domain Name Service; Domain Name System"
+    },
+    "DOCSIS": {
+        "expanded": "Data-over-Cable Service Interface Specifications"
+    },
+    "DOI": {
+        "expanded": "domain of interpretation"
+    },
+    "DoS": {
+        "expanded": "denial of service"
+    },
+    "DPRAM": {
+        "expanded": "dual-port RAM"
+    },
+    "DR": {
+        "expanded": "Designated Router; dynamic replenishment"
+    },
+    "DRAM": {
+        "expanded": "dynamic RAM"
+    },
+    "DRDA": {
+        "expanded": "Distributed Relational Database Architecture"
+    },
+    "DRiP": {
+        "expanded": "Duplicate Ring Protocol"
+    },
+    "DRP": {
+        "expanded": "Director Response Protocol"
+    },
+    "DRQ": {
+        "expanded": "Direct memory access Receive Queue"
+    },
+    "DS": {
+        "expanded": "dial shelf"
+    },
+    "DSA": {
+        "expanded": "delayed stop accounting"
+    },
+    "DSC": {
+        "expanded": "dial shelf control; dial shelf controller"
+    },
+    "DSCP": {
+        "expanded": "differentiated service code pointer"
+    },
+    "DSI": {
+        "expanded": "dial shelf interconnect; dial shelf interface"
+    },
+    "DSIP": {
+        "expanded": "Dial Shelf Interconnect Protocol"
+    },
+    "DSL": {
+        "expanded": "digital subscriber line"
+    },
+    "DSLAM": {
+        "expanded": "digital subscriber line ATM multiplexer"
+    },
+    "DSMP": {
+        "expanded": "Distributed Stream Media Processor"
+    },
+    "DSP": {
+        "expanded": "digital signal processor; Domain Specific Part"
+    },
+    "DSPFARM": {
+        "expanded": "digital signal processor farm"
+    },
+    "DSPM": {
+        "expanded": "digital signal processor module"
+    },
+    "DSPRM": {
+        "expanded": "Digital Signal Processor Resource Manager"
+    },
+    "DSPU": {
+        "expanded": "downstream physical unit"
+    },
+    "DSR": {
+        "expanded": "data set ready"
+    },
+    "DSU": {
+        "expanded": "data service unit; digital service unit"
+    },
+    "DTE": {
+        "expanded": "data terminal equipment"
+    },
+    "DTP": {
+        "expanded": "Dynamic Trunking Protocol"
+    },
+    "DTQ": {
+        "expanded": "Direct memory access Receive Queue"
+    },
+    "DTR": {
+        "expanded": "data terminal ready"
+    },
+    "DVMRP": {
+        "expanded": "Distance Vector Multicast Routing Protocol"
+    },
+    "E1T1": {
+        "expanded": "E1 line or T1 line"
+    },
+    "EADI": {
+        "expanded": "Extended Availability Drop and Insert"
+    },
+    "EAIM": {
+        "expanded": "Encryption AIM"
+    },
+    "EAP": {
+        "expanded": "Extensible Authentication Protocol"
+    },
+    "EAPoUDP": {
+        "expanded": "Extensible Authentication Protocol over User Datagram Protocol"
+    },
+    "EARL": {
+        "expanded": "enhanced address recognition logic"
+    },
+    "EC": {
+        "expanded": "EtherChannel"
+    },
+    "ECA": {
+        "expanded": "ESCON Channel Adapter"
+    },
+    "ECC": {
+        "expanded": "error-correcting code; Error-Check Code; error checking and correction"
+    },
+    "ECM": {
+        "expanded": "Extensible Call Model; External Control Memory"
+    },
+    "EEM": {
+        "expanded": "Embedded Event Manager"
+    },
+    "EEPROM": {
+        "expanded": "electronically erasable programmable read-only memory"
+    },
+    "EGP": {
+        "expanded": "exterior gateway protocol"
+    },
+    "EHSA": {
+        "expanded": "enhanced high system availability"
+    },
+    "EID": {
+        "expanded": "endpoint identifier"
+    },
+    "EIGRP": {
+        "expanded": "Enhanced Interior Gateway Routing Protocol"
+    },
+    "EIO": {
+        "expanded": "Elastic I/O"
+    },
+    "ELAN": {
+        "expanded": "emulated LAN"
+    },
+    "ENUM": {
+        "expanded": "enumeration"
+    },
+    "ENVM": {
+        "expanded": "Constellation WAN Environmental Monitor"
+    },
+    "EOBC": {
+        "expanded": "Ethernet Out-of-Band Channel"
+    },
+    "EOC": {
+        "expanded": "embedded operations channel"
+    },
+    "EOF": {
+        "expanded": "end-of-frame"
+    },
+    "EOIR": {
+        "expanded": "enhanced online insertion and removal"
+    },
+    "EoMPLS": {
+        "expanded": "Ethernet over MPLS"
+    },
+    "EOU": {
+        "expanded": "Extensible Authentication Protocol over User Datagram Protocol"
+    },
+    "EPM": {
+        "expanded": "External Packet Memory"
+    },
+    "ESCON": {
+        "expanded": "Enterprise System Connection"
+    },
+    "ESMP": {
+        "expanded": "Even Simpler Management Protocol"
+    },
+    "ESP": {
+        "expanded": "Extended Services Processor; Extended Services Platform"
+    },
+    "ESW": {
+        "expanded": "Ethernet Switch"
+    },
+    "ESWILP": {
+        "expanded": "Ethernet Switch with Inline Power"
+    },
+    "ESYS": {
+        "expanded": "Undefined"
+    },
+    "ETM": {
+        "expanded": "Enhanced Timing Module"
+    },
+    "EXAR": {
+        "expanded": "Chip manufacturer"
+    },
+    "FAQ": {
+        "expanded": "frequently asked question"
+    },
+    "FB": {
+        "expanded": "feature board"
+    },
+    "FBB": {
+        "expanded": "fast back-to-back; from backplane buffer"
+    },
+    "FCFS": {
+        "expanded": "First Come First Served"
+    },
+    "FCIT": {
+        "expanded": "Fiber Channel Idle Time"
+    },
+    "FC-PFQ": {
+        "expanded": "feature card per-flow queueing"
+    },
+    "FCPA": {
+        "expanded": "Fibre Channel Port Adapter"
+    },
+    "FCS": {
+        "expanded": "frame check sequence"
+    },
+    "FDDI": {
+        "expanded": "Fiber Distributed Data Interface"
+    },
+    "FDL": {
+        "expanded": "Facility Data Link"
+    },
+    "FDM": {
+        "expanded": "frequency-division multiplexing"
+    },
+    "FE": {
+        "expanded": "Fast Ethernet"
+    },
+    "FEC": {
+        "expanded": "Fast EtherChannel"
+    },
+    "FECPM": {
+        "expanded": "Fast Ethernet Combo Port Module"
+    },
+    "FI": {
+        "expanded": "format indicator"
+    },
+    "FIA": {
+        "expanded": "Fabric Interface ASIC"
+    },
+    "FIB": {
+        "expanded": "forwarding information base"
+    },
+    "FIFO": {
+        "expanded": "first-in, first-out"
+    },
+    "FIR": {
+        "expanded": "Finite Impulse Response"
+    },
+    "FM": {
+        "expanded": "fault monitoring"
+    },
+    "FMSP": {
+        "expanded": "Fax Media Services Provider"
+    },
+    "FPGA": {
+        "expanded": "field-programmable gate array"
+    },
+    "FPI": {
+        "expanded": "Forwarding Path Identifier"
+    },
+    "FQDN": {
+        "expanded": "fully qualified domain name"
+    },
+    "FQPCID": {
+        "expanded": "fully qualified procedure correlation identifier"
+    },
+    "FREEDM": {
+        "expanded": "Frame EnginE and Data link Manager"
+    },
+    "FRMR": {
+        "expanded": "Frame Reject"
+    },
+    "FRoM": {
+        "expanded": "FrameRelay over MPLS"
+    },
+    "FRoMPLS": {
+        "expanded": "FrameRelay over MPLS"
+    },
+    "FRR": {
+        "expanded": "Fast ReRoute"
+    },
+    "FRU": {
+        "expanded": "field-replaceable unit"
+    },
+    "FSIP": {
+        "expanded": "Fast Serial Interface Processor"
+    },
+    "FSM": {
+        "expanded": "finite state machine"
+    },
+    "FTBB": {
+        "expanded": "from/to backplane buffer"
+    },
+    "FTP": {
+        "expanded": "File Transfer Protocol"
+    },
+    "GBIC": {
+        "expanded": "Gigabit Interface Converter"
+    },
+    "GC": {
+        "expanded": "global configuration"
+    },
+    "GDS": {
+        "expanded": "general data stream"
+    },
+    "GE": {
+        "expanded": "Gigabit Ethernet"
+    },
+    "GEFC": {
+        "expanded": "Gigabit Ethernet/Fibre Channel"
+    },
+    "GEIP": {
+        "expanded": "Gigabit Ethernet Interface Processor"
+    },
+    "GGSN": {
+        "expanded": "gateway GPRS support node"
+    },
+    "GKTMP": {
+        "expanded": "Gatekeeper Transaction Message Protocol"
+    },
+    "GLBP": {
+        "expanded": "Gateway Load Balancing Protocol"
+    },
+    "GLC": {
+        "expanded": "gigabit line card"
+    },
+    "GP": {
+        "expanded": "Global Pointer"
+    },
+    "GPRS": {
+        "expanded": "general packet radio service"
+    },
+    "GRP": {
+        "expanded": "gigabit route processor"
+    },
+    "GSN": {
+        "expanded": "GPRS support node"
+    },
+    "GSR": {
+        "expanded": "Internet router"
+    },
+    "GT95K": {
+        "expanded": "Undefined"
+    },
+    "GTF": {
+        "expanded": "Generalized Trace Facility"
+    },
+    "GTP": {
+        "expanded": "GPRS tunneling protocol"
+    },
+    "GULF": {
+        "expanded": "GULF-2488 ASIC"
+    },
+    "HA": {
+        "expanded": "High Availability; Home Agent"
+    },
+    "HAL": {
+        "expanded": "Halcyon"
+    },
+    "HAPX": {
+        "expanded": "Hardware Assisted Packet Classification"
+    },
+    "HDLC": {
+        "expanded": "High-Level Data Link Control"
+    },
+    "HDV": {
+        "expanded": "High Density Voice"
+    },
+    "HDX": {
+        "expanded": "half-duplex"
+    },
+    "HEC": {
+        "expanded": "header error control"
+    },
+    "HERA": {
+        "expanded": "Undefined"
+    },
+    "HGW": {
+        "expanded": "home gateway"
+    },
+    "HMAC": {
+        "expanded": "hash message authentication codes"
+    },
+    "HMS": {
+        "expanded": "Home Media Server"
+    },
+    "HPI": {
+        "expanded": "Host Port Interface"
+    },
+    "HPR": {
+        "expanded": "High-Performance Routing"
+    },
+    "HQF": {
+        "expanded": "Hierarchical Queuing Framework"
+    },
+    "HSA": {
+        "expanded": "high system availability"
+    },
+    "HSRP": {
+        "expanded": "Hot Standby Router Protocol"
+    },
+    "HSSI": {
+        "expanded": "High Speed Serial Interface"
+    },
+    "HT-FPGA": {
+        "expanded": "Hyper Transport Field-Programmable Gate Array"
+    },
+    "HWAF": {
+        "expanded": "Hardware Address Filtering"
+    },
+    "HWIC": {
+        "expanded": "High-Speed WAN Interface Card"
+    },
+    "HWICD": {
+        "expanded": "High-Speed WAN Interface Card, double-wide"
+    },
+    "HWIDB": {
+        "expanded": "hardware interface descriptor block"
+    },
+    "I2C": {
+        "expanded": "Inter-Integrated Circuit"
+    },
+    "IBGP": {
+        "expanded": "internal BGP"
+    },
+    "IBL": {
+        "expanded": "Input Buffer Logic"
+    },
+    "IBOC": {
+        "expanded": "in-band bit-oriented code"
+    },
+    "ICC": {
+        "expanded": "Inter Card Communication; Interface Controller Card"
+    },
+    "ICMP": {
+        "expanded": "Internet Control Message Protocol"
+    },
+    "ICPIF": {
+        "expanded": "Calculated Planning Impairment Factor"
+    },
+    "ICS": {
+        "expanded": "Integrated Communication System"
+    },
+    "IDAP": {
+        "expanded": "Internet Data Access Presentation"
+    },
+    "IDB": {
+        "expanded": "interface descriptor block"
+    },
+    "IDPROM": {
+        "expanded": "Identification PROM"
+    },
+    "IDS": {
+        "expanded": "Internal Data Services"
+    },
+    "IDT": {
+        "expanded": "Integrated Digital Terminal"
+    },
+    "IDU": {
+        "expanded": "indoor unit"
+    },
+    "IE": {
+        "expanded": "information element"
+    },
+    "IEEE": {
+        "expanded": "Institute of Electrical and Electronics Engineers"
+    },
+    "IETF": {
+        "expanded": "Internet Engineering Task Force"
+    },
+    "IF": {
+        "expanded": "intermediate frequency"
+    },
+    "IGMP": {
+        "expanded": "Internet Group Management Protocol"
+    },
+    "IGRP": {
+        "expanded": "Interior Gateway Routing Protocol"
+    },
+    "IIC": {
+        "expanded": "Undefined"
+    },
+    "IIF": {
+        "expanded": "Input interface"
+    },
+    "IIH": {
+        "expanded": "IS to IS Hello PDU"
+    },
+    "IIN": {
+        "expanded": "Undefined"
+    },
+    "IKE": {
+        "expanded": "Internet Key Exchange"
+    },
+    "ILMI": {
+        "expanded": "Integrated Local Management Interface"
+    },
+    "ILP": {
+        "expanded": "inline power"
+    },
+    "ILPM": {
+        "expanded": "inline power module"
+    },
+    "IMA": {
+        "expanded": "inverse multiplexing over ATM"
+    },
+    "IMSI": {
+        "expanded": "international mobile subscriber identity"
+    },
+    "IOB": {
+        "expanded": "Undefined"
+    },
+    "IP": {
+        "expanded": "Internet Protocol"
+    },
+    "IPC": {
+        "expanded": "interprocess communication"
+    },
+    "IPDC": {
+        "expanded": "Internet Protocol device control"
+    },
+    "IPDLC": {
+        "expanded": "IP data link connection"
+    },
+    "IPE": {
+        "expanded": "Inter-PRE Ethernet"
+    },
+    "IPG": {
+        "expanded": "Inter Packet Gap"
+    },
+    "IPHC": {
+        "expanded": "IP Header Compression"
+    },
+    "IPM": {
+        "expanded": "Cisco Internetwork Performance Monitor"
+    },
+    "IPPCP": {
+        "expanded": "IP Payload Compression Protocol"
+    },
+    "IPRM": {
+        "expanded": "IP Router Manager"
+    },
+    "IPS": {
+        "expanded": "IP Storage"
+    },
+    "IPSec": {
+        "expanded": "IP Security"
+    },
+    "IPv6": {
+        "expanded": "IP version 6"
+    },
+    "IPX": {
+        "expanded": "Internetwork Packet eXchange"
+    },
+    "ISA": {
+        "expanded": "Integrated Services Adapter"
+    },
+    "ISAKMP": {
+        "expanded": "Internet Security Association and Key Management Protocol"
+    },
+    "ISDN": {
+        "expanded": "Integrated Services Digital Network"
+    },
+    "ISE": {
+        "expanded": "Internet Services Engine"
+    },
+    "IS-IS": {
+        "expanded": "Intermediate System-to-Intermediate System"
+    },
+    "ISL": {
+        "expanded": "Inter-Switch Link"
+    },
+    "ISR": {
+        "expanded": "intermediate session routing"
+    },
+    "ISRHOG": {
+        "expanded": "Interrupt Service Routine HOG"
+    },
+    "ISSU": {
+        "expanded": "In-Service Software Upgrade"
+    },
+    "IST": {
+        "expanded": "Internal Spanning Tree"
+    },
+    "IVR": {
+        "expanded": "interactive voice response"
+    },
+    "IXP": {
+        "expanded": "Internet Exchange Point"
+    },
+    "L2": {
+        "expanded": "Layer 2"
+    },
+    "L2F": {
+        "expanded": "Layer 2 Forwarding"
+    },
+    "LAC": {
+        "expanded": "L2TP access concentrator"
+    },
+    "LACP": {
+        "expanded": "Link Aggregate Control Protocol"
+    },
+    "LAIS": {
+        "expanded": "SONET Line level Alarm Indication Signal"
+    },
+    "LANCE": {
+        "expanded": "Local Area Network Controller Ethernet"
+    },
+    "LANE": {
+        "expanded": "LAN Emulation"
+    },
+    "LAPB": {
+        "expanded": "Link Access Procedure, Balanced"
+    },
+    "LAT": {
+        "expanded": "local-area transport"
+    },
+    "LC": {
+        "expanded": "line card"
+    },
+    "LCATM": {
+        "expanded": "Label controlled ATM"
+    },
+    "LCB": {
+        "expanded": "Line Control Block"
+    },
+    "LCC": {
+        "expanded": "Line card Configuration Coordinator"
+    },
+    "LCD": {
+        "expanded": "liquid crystal display"
+    },
+    "LCDOS": {
+        "expanded": "line card operating system software"
+    },
+    "LCI": {
+        "expanded": "local channel identifier"
+    },
+    "LCN": {
+        "expanded": "logical channel number"
+    },
+    "LDLC": {
+        "expanded": "LocalDirector link control"
+    },
+    "LDN": {
+        "expanded": "local directory number"
+    },
+    "LDP": {
+        "expanded": "Label Distribution Protocol"
+    },
+    "LEC": {
+        "expanded": "LANE Client"
+    },
+    "LECS": {
+        "expanded": "LANE Configuration Server"
+    },
+    "LED": {
+        "expanded": "light-emitting diode"
+    },
+    "LEN": {
+        "expanded": "low-entry networking"
+    },
+    "LES": {
+        "expanded": "LANE Server"
+    },
+    "LFD": {
+        "expanded": "Label Forwarding Database"
+    },
+    "LFSID": {
+        "expanded": "local-form session identifier"
+    },
+    "LIR": {
+        "expanded": "link incident report"
+    },
+    "LIU": {
+        "expanded": "line interface unit"
+    },
+    "LLC": {
+        "expanded": "logical link control"
+    },
+    "LLC2": {
+        "expanded": "Logical Link Control, type 2"
+    },
+    "LLD": {
+        "expanded": "low level design"
+    },
+    "LMI": {
+        "expanded": "Local Management Interface"
+    },
+    "LNM": {
+        "expanded": "LAN Network Manager"
+    },
+    "LNS": {
+        "expanded": "L2TP network server"
+    },
+    "LOF": {
+        "expanded": "Loss of Frame"
+    },
+    "LOS": {
+        "expanded": "Loss of Signal"
+    },
+    "LPD": {
+        "expanded": "line printer daemon"
+    },
+    "LRC": {
+        "expanded": "line card redundancy controller"
+    },
+    "LRJ": {
+        "expanded": "location rejection"
+    },
+    "LRQ": {
+        "expanded": "location request"
+    },
+    "LS": {
+        "expanded": "LightStream"
+    },
+    "LSA": {
+        "expanded": "link-state advertisement"
+    },
+    "LSD": {
+        "expanded": "label switching database"
+    },
+    "LSIPC": {
+        "expanded": "LightStream interprocess communication"
+    },
+    "LSP": {
+        "expanded": "label switch path; link-state packet; Link-State PDU"
+    },
+    "LSS": {
+        "expanded": "LightStream switching"
+    },
+    "LU": {
+        "expanded": "logical unit"
+    },
+    "LU6.2": {
+        "expanded": "logical unit type 6.2"
+    },
+    "LVC": {
+        "expanded": "label switched controlled virtual circuits"
+    },
+    "LWAPP": {
+        "expanded": "Lightweight Access Point Protocol"
+    },
+    "LYRA": {
+        "expanded": "Constellation+ Advanced Forwarding Engine Layer2"
+    },
+    "MAC": {
+        "expanded": "Media Access Control"
+    },
+    "MAR": {
+        "expanded": "Midrange Access Routers"
+    },
+    "MARS": {
+        "expanded": "Multicast Address Resolution Server"
+    },
+    "MATM": {
+        "expanded": "MAC Address Table Manager"
+    },
+    "MAU": {
+        "expanded": "media attachment unit"
+    },
+    "MAX": {
+        "expanded": "maximum"
+    },
+    "MBE": {
+        "expanded": "multiple-bit error"
+    },
+    "MBRI": {
+        "expanded": "Multi-BRI; Multiport Basic Rate Interface"
+    },
+    "MBus": {
+        "expanded": "maintenance bus"
+    },
+    "MCD": {
+        "expanded": "Undefined"
+    },
+    "MCNS": {
+        "expanded": "Multimedia Cable Network System Partners, Ltd."
+    },
+    "MCOM": {
+        "expanded": "Microcom carrier card"
+    },
+    "MCDMA": {
+        "expanded": "Multi-Channel DMA"
+    },
+    "MCSC": {
+        "expanded": "Multi-Channel Serial Controller"
+    },
+    "MD5": {
+        "expanded": "message digest 5"
+    },
+    "MDB": {
+        "expanded": "Multicast Descriptor Block"
+    },
+    "MDL": {
+        "expanded": "maintenance data link"
+    },
+    "MDRR": {
+        "expanded": "Modified Deficit Round Robin"
+    },
+    "MDS": {
+        "expanded": "multicast distributed switching"
+    },
+    "MDSS": {
+        "expanded": "Multicast Distributed Shortcut Switching"
+    },
+    "MDT": {
+        "expanded": "multicast distribution tree"
+    },
+    "MEMD": {
+        "expanded": "memory device"
+    },
+    "MFD": {
+        "expanded": "Multicast Fast Drop"
+    },
+    "MFE": {
+        "expanded": "Multi-port Fast Ethernet"
+    },
+    "MFI": {
+        "expanded": "MPLS forwarding infrastructure"
+    },
+    "MFIB": {
+        "expanded": "Multicast Forwarding Information Base"
+    },
+    "MGCP": {
+        "expanded": "Media Gateway Control Protocol"
+    },
+    "MGID": {
+        "expanded": "Undefined"
+    },
+    "MIB": {
+        "expanded": "Management Information Base"
+    },
+    "MIB/SMT": {
+        "expanded": "Management Information Base/Station Management"
+    },
+    "MIC": {
+        "expanded": "media interface connector"
+    },
+    "MICA": {
+        "expanded": "Modem ISDN channel aggregation"
+    },
+    "MID": {
+        "expanded": "Multiplex ID"
+    },
+    "MIDB": {
+        "expanded": "multicast interface data block"
+    },
+    "MII": {
+        "expanded": "media-independent interface"
+    },
+    "MLD": {
+        "expanded": "Multicast Listener Discovery"
+    },
+    "MLP": {
+        "expanded": "Multilink Point-to-Point Protocol"
+    },
+    "MLPPP": {
+        "expanded": "Multilink Point-to-Point Protocol"
+    },
+    "MLS": {
+        "expanded": "multilayer switching"
+    },
+    "MLSM": {
+        "expanded": "multi-layer switching for multicast"
+    },
+    "MLTG": {
+        "expanded": "multilink trunk group"
+    },
+    "MMAP": {
+        "expanded": "memory map"
+    },
+    "MMC": {
+        "expanded": "Undefined"
+    },
+    "MMI": {
+        "expanded": "Modem Management Interface"
+    },
+    "MMLS": {
+        "expanded": "multicast multilayer switching"
+    },
+    "MNCNS": {
+        "expanded": "Multimedia Cable Network System Partners, Ltd."
+    },
+    "MNP4": {
+        "expanded": "Microcom Networking Protocol 4"
+    },
+    "MP": {
+        "expanded": "Multilink Protocol"
+    },
+    "MPC": {
+        "expanded": "MultiPath Channel; Multiprotocol-over-ATM client"
+    },
+    "MPLS": {
+        "expanded": "Multiprotocol Label Switching"
+    },
+    "MPOA": {
+        "expanded": "Multiprotocol over ATM"
+    },
+    "MPPE": {
+        "expanded": "Microsoft Point to Point Encryption"
+    },
+    "MPS": {
+        "expanded": "Multiprotocol-over-ATM server"
+    },
+    "MQC": {
+        "expanded": "Modular Quality of Service (QoS) command line interface (CLI)"
+    },
+    "MRIB": {
+        "expanded": "Multicast Routing Information Base"
+    },
+    "MRP": {
+        "expanded": "Multiservice Routing Processor"
+    },
+    "MPT": {
+        "expanded": "Ministry of Posts and Telecommunications"
+    },
+    "mroute": {
+        "expanded": "Multicast route"
+    },
+    "MRW": {
+        "expanded": "Undefined"
+    },
+    "MS": {
+        "expanded": "Management Services; mobile subscriber"
+    },
+    "MSC": {
+        "expanded": "Modular Services Card"
+    },
+    "MSDP": {
+        "expanded": "Multicast Source Discovery Protocol"
+    },
+    "MSFC": {
+        "expanded": "Multilayer Switch Feature Card"
+    },
+    "MSP": {
+        "expanded": "Media Service Provider"
+    },
+    "MSR": {
+        "expanded": "Multiservice Switch Router"
+    },
+    "MSS": {
+        "expanded": "maximum segment size"
+    },
+    "MST": {
+        "expanded": "Multiple Spanning-Tree Protocol"
+    },
+    "MSTOO": {
+        "expanded": "multiple spanning tree root"
+    },
+    "Mtree": {
+        "expanded": "matings tree"
+    },
+    "MTU": {
+        "expanded": "maximum transmission unit"
+    },
+    "MURIB": {
+        "expanded": "Multicast Unicast Routing Information Base"
+    },
+    "MVIP": {
+        "expanded": "Versatile Interface Processor"
+    },
+    "MW": {
+        "expanded": "Undefined"
+    },
+    "MWAM": {
+        "expanded": "Multi-Processor WAN Application Module"
+    },
+    "Mx": {
+        "expanded": "Mueslix"
+    },
+    "NAK": {
+        "expanded": "negative acknowledgment"
+    },
+    "NAM": {
+        "expanded": "Network Analysis Module"
+    },
+    "NAS": {
+        "expanded": "network access server"
+    },
+    "NAT": {
+        "expanded": "Network Address Translation"
+    },
+    "NBAR": {
+        "expanded": "network-based application recognition"
+    },
+    "NBP": {
+        "expanded": "Name Binding Protocol"
+    },
+    "NCE": {
+        "expanded": "network connection endpoint"
+    },
+    "NCP": {
+        "expanded": "Network Control Program; Network Control Protocol"
+    },
+    "NEAT": {
+        "expanded": "E1 and T1 processor"
+    },
+    "NFAS": {
+        "expanded": "Non Facility Associated Signaling"
+    },
+    "NHDR": {
+        "expanded": "Network Layer Header"
+    },
+    "NHRP": {
+        "expanded": "Next Hop Resolution Protocol"
+    },
+    "NHS": {
+        "expanded": "Next Hop Server"
+    },
+    "NIM": {
+        "expanded": "network interface module"
+    },
+    "NIP": {
+        "expanded": "Nitro Interconnect Protocol"
+    },
+    "NLP": {
+        "expanded": "network-layer packet"
+    },
+    "NLSP": {
+        "expanded": "NetWare Link Services Protocol"
+    },
+    "NM": {
+        "expanded": "network module"
+    },
+    "NM-HD": {
+        "expanded": "high density network module"
+    },
+    "NME": {
+        "expanded": "Network Management Ethernet"
+    },
+    "NMI": {
+        "expanded": "nonmaskable interrupt"
+    },
+    "NMP": {
+        "expanded": "Network Management Processor"
+    },
+    "NMS": {
+        "expanded": "network management system"
+    },
+    "NMVT": {
+        "expanded": "network management vector transport"
+    },
+    "NNI": {
+        "expanded": "Network-to-Network Interface"
+    },
+    "NNS": {
+        "expanded": "network node server"
+    },
+    "NPE": {
+        "expanded": "network processing engine"
+    },
+    "NRM": {
+        "expanded": "normal response mode"
+    },
+    "NRP": {
+        "expanded": "Network Routing Processor; node route processor"
+    },
+    "NSAP": {
+        "expanded": "network service access point"
+    },
+    "NSDB": {
+        "expanded": "Network Security Database"
+    },
+    "NSE": {
+        "expanded": "network services engine"
+    },
+    "NSF": {
+        "expanded": "Non-stop forwarding"
+    },
+    "NSP": {
+        "expanded": "Network Switch Processor; node switch processor"
+    },
+    "NTP": {
+        "expanded": "Network Time Protocol"
+    },
+    "NVRAM": {
+        "expanded": "nonvolatile RAM"
+    },
+    "OAM": {
+        "expanded": "Operation, Administration, and Maintenance"
+    },
+    "OBL": {
+        "expanded": "Output Buffer Logic"
+    },
+    "OC": {
+        "expanded": "Optical Carrier"
+    },
+    "ODU": {
+        "expanded": "outdoor unit"
+    },
+    "OER": {
+        "expanded": "Optimized Edge Routing"
+    },
+    "OFC": {
+        "expanded": "open fiber control"
+    },
+    "OIF": {
+        "expanded": "Output interface"
+    },
+    "OIR": {
+        "expanded": "online insertion and removal"
+    },
+    "ONS": {
+        "expanded": "Optical Networking Systems"
+    },
+    "OOBP": {
+        "expanded": "out-of-band port"
+    },
+    "OOD": {
+        "expanded": "Online Offline Diagnostics"
+    },
+    "OOS": {
+        "expanded": "out of service"
+    },
+    "ORF": {
+        "expanded": "outbound route filter"
+    },
+    "OSCP": {
+        "expanded": "Optical Supervisory Channel Protocol"
+    },
+    "OSM": {
+        "expanded": "Optical Services Module"
+    },
+    "OSP": {
+        "expanded": "Open Settlements Protocol"
+    },
+    "OSPF": {
+        "expanded": "Open Shortest Path First"
+    },
+    "OSS": {
+        "expanded": "Operations Support System"
+    },
+    "OU": {
+        "expanded": "organizational unit"
+    },
+    "PA": {
+        "expanded": "port adapter"
+    },
+    "PAD": {
+        "expanded": "packet assembler/disassembler"
+    },
+    "PAgP": {
+        "expanded": "Port Aggregation Protocol"
+    },
+    "PAM": {
+        "expanded": "port adapter module card; pulse amplitude modulation"
+    },
+    "PAN": {
+        "expanded": "4-Port and (8+1) Port ESWILP HWIC"
+    },
+    "PAP": {
+        "expanded": "Password Authentication Protocol"
+    },
+    "PARAM1": {
+        "expanded": "Undefined"
+    },
+    "PARAM2": {
+        "expanded": "Undefined"
+    },
+    "PASCB": {
+        "expanded": "port adapter system control block"
+    },
+    "PASV": {
+        "expanded": "passive mode FTP"
+    },
+    "PBP": {
+        "expanded": "packet-by-packet"
+    },
+    "PC": {
+        "expanded": "program counter"
+    },
+    "PCA": {
+        "expanded": "Parallel Channel Adapter"
+    },
+    "PCF": {
+        "expanded": "Packet Control Function; Profile Configuration File"
+    },
+    "PCI": {
+        "expanded": "protocol control information"
+    },
+    "PCID": {
+        "expanded": "procedure correlation identifier"
+    },
+    "PCM": {
+        "expanded": "pulse code modulation"
+    },
+    "PCMCIA": {
+        "expanded": "Personal Computer Memory Card International Association"
+    },
+    "PCR": {
+        "expanded": "peak cell rate"
+    },
+    "PDP": {
+        "expanded": "policy decision point"
+    },
+    "PDSN": {
+        "expanded": "Packet Data Serving Node"
+    },
+    "PDU": {
+        "expanded": "protocol data unit"
+    },
+    "PEMF": {
+        "expanded": "Power Entry Module and Filter"
+    },
+    "PF": {
+        "expanded": "protocol filtering"
+    },
+    "PGM": {
+        "expanded": "Pragmatic General Multicast"
+    },
+    "PHAD": {
+        "expanded": "Physical Layer Interface Module (PLIM) header add-drop ASIC"
+    },
+    "PHY": {
+        "expanded": "physical layer interface"
+    },
+    "PIC": {
+        "expanded": "Peripheral Interface Controller; point in call"
+    },
+    "PIE": {
+        "expanded": "protocol information element"
+    },
+    "PIF": {
+        "expanded": "Packet Input FIFO"
+    },
+    "PIM": {
+        "expanded": "Protocol Independent Multicast"
+    },
+    "PIM-SM": {
+        "expanded": "Undefined"
+    },
+    "PIMv2": {
+        "expanded": "Protocol Independent Multicast version 2"
+    },
+    "PIU": {
+        "expanded": "PCM Interface Unit"
+    },
+    "PKCS": {
+        "expanded": "Public Key Cryptographic Standards"
+    },
+    "PKI": {
+        "expanded": "public key infrastructure"
+    },
+    "PLD": {
+        "expanded": "programmable logic device"
+    },
+    "PLIM": {
+        "expanded": "Physical Layer Interface Module"
+    },
+    "PLU": {
+        "expanded": "primary logical unit"
+    },
+    "PLX": {
+        "expanded": "PCI to local bus bridge vendor"
+    },
+    "PM": {
+        "expanded": "port management"
+    },
+    "PMA": {
+        "expanded": "Packet Memory Access"
+    },
+    "PMC": {
+        "expanded": "PCI Mezzanine Card"
+    },
+    "PMON": {
+        "expanded": "Performance Monitor"
+    },
+    "PNNI": {
+        "expanded": "Private Network-Network Interface"
+    },
+    "PNSP": {
+        "expanded": "Partial Number Sequence PDUs"
+    },
+    "POE": {
+        "expanded": "Power Over Ethernet"
+    },
+    "PoS": {
+        "expanded": "Packet over SONET; Packet over SONET/SDH"
+    },
+    "POST": {
+        "expanded": "power-on self test"
+    },
+    "POT1E1": {
+        "expanded": "Packet Over T1 E1"
+    },
+    "POTS": {
+        "expanded": "plain old telephone service"
+    },
+    "PPC": {
+        "expanded": "primary point code"
+    },
+    "PPP": {
+        "expanded": "Point-to-Point Protocol"
+    },
+    "PQUICC": {
+        "expanded": "Quad Integrated Communications Controller"
+    },
+    "PRE": {
+        "expanded": "Performance Routing Engine"
+    },
+    "PRI": {
+        "expanded": "Primary Rate Interface"
+    },
+    "PROM": {
+        "expanded": "programmable read-only memory"
+    },
+    "PRP": {
+        "expanded": "Performance Route Processor"
+    },
+    "PSA": {
+        "expanded": "Packet Switching ASIC"
+    },
+    "PSC": {
+        "expanded": "processor and switch card"
+    },
+    "PSM": {
+        "expanded": "Protection Switch Module"
+    },
+    "PSNP": {
+        "expanded": "Partial Sequence Number PDU"
+    },
+    "PTB": {
+        "expanded": "Peer Transaction Bus"
+    },
+    "PTM": {
+        "expanded": "Packet Transfer Mode"
+    },
+    "PU": {
+        "expanded": "physical unit"
+    },
+    "PU 2.0": {
+        "expanded": "Physical Unit type 2.0"
+    },
+    "PU 2.1": {
+        "expanded": "Physical Unit type 2.1"
+    },
+    "PVC": {
+        "expanded": "permanent virtual circuit; permanent virtual connection"
+    },
+    "PVDM": {
+        "expanded": "Packet Voice DSP Module"
+    },
+    "PVID": {
+        "expanded": "Port VLAN ID"
+    },
+    "PVP": {
+        "expanded": "permanent virtual path"
+    },
+    "PVST+": {
+        "expanded": "Per-VLAN Spanning Tree"
+    },
+    "PXF": {
+        "expanded": "Parallel eXpress Forwarding"
+    },
+    "PXM": {
+        "expanded": "Processor Switching Module"
+    },
+    "QA": {
+        "expanded": "queue and accumulator"
+    },
+    "QEM": {
+        "expanded": "QEM driver"
+    },
+    "QLLC": {
+        "expanded": "Qualified Logical Link Control"
+    },
+    "QM": {
+        "expanded": "QoS manager"
+    },
+    "QMAC": {
+        "expanded": "Quad Token Ring Media Access Controller ASIC"
+    },
+    "QoS": {
+        "expanded": "quality of service"
+    },
+    "QSTAT": {
+        "expanded": "Undefined"
+    },
+    "RA": {
+        "expanded": "registration authority"
+    },
+    "RAC": {
+        "expanded": "Resource Availability Confirm; Ring Access Controller"
+    },
+    "RADIUS": {
+        "expanded": "Remote Authentication Dial-In User Service"
+    },
+    "RARP": {
+        "expanded": "Reverse Address Resolution Protocol"
+    },
+    "RAS": {
+        "expanded": "Registration, Admission, and Status; remote access server"
+    },
+    "RBCP": {
+        "expanded": "Router Blade Configuration Protocol"
+    },
+    "RBD": {
+        "expanded": "receive buffer descriptor"
+    },
+    "RBS": {
+        "expanded": "Robbed-Bit Signaling"
+    },
+    "RCP": {
+        "expanded": "remote copy protocol"
+    },
+    "RDB": {
+        "expanded": "relational database"
+    },
+    "RE": {
+        "expanded": "Undefined"
+    },
+    "RED": {
+        "expanded": "Undefined"
+    },
+    "REQACTPU": {
+        "expanded": "request to activate a physical unit"
+    },
+    "REQDACTPU": {
+        "expanded": "request to deactivate a physical unit"
+    },
+    "REQ(D)ACTPU(RSP)": {
+        "expanded": "Route Switch Processor request to activate or deactivate a physical unit"
+    },
+    "REXEC": {
+        "expanded": "remote execution"
+    },
+    "RF": {
+        "expanded": "radio frequency; Redundancy frequency"
+    },
+    "RIB": {
+        "expanded": "Routing Information Base"
+    },
+    "RIM": {
+        "expanded": "Undefined"
+    },
+    "RIP": {
+        "expanded": "Routing Information Protocol"
+    },
+    "RISC": {
+        "expanded": "reduced instruction set computing"
+    },
+    "RJE": {
+        "expanded": "remote job entry"
+    },
+    "RLDRAM": {
+        "expanded": "Undefined"
+    },
+    "RLM": {
+        "expanded": "Redundant Link Manager"
+    },
+    "RMON": {
+        "expanded": "Remote Network Monitoring"
+    },
+    "RNR": {
+        "expanded": "receive not ready"
+    },
+    "ROM": {
+        "expanded": "read-only memory"
+    },
+    "RP": {
+        "expanded": "Route Processor"
+    },
+    "RPA": {
+        "expanded": "Resource Pool Allocation"
+    },
+    "RPC": {
+        "expanded": "Remote Procedure Call"
+    },
+    "RPF": {
+        "expanded": "Reverse Path Forwarding"
+    },
+    "RPM": {
+        "expanded": "Route Processor Module; Resource Pool Management"
+    },
+    "RPMXF": {
+        "expanded": "Route Processor Module, express forwarding"
+    },
+    "RPR": {
+        "expanded": "Route Processor Redundancy"
+    },
+    "RPR+": {
+        "expanded": "Route Processor Redundancy plus"
+    },
+    "RPS": {
+        "expanded": "Ring Parameter Server"
+    },
+    "RR": {
+        "expanded": "receive ready"
+    },
+    "RRP": {
+        "expanded": "Redundant Route Processor"
+    },
+    "RS": {
+        "expanded": "router shelf"
+    },
+    "RS-232": {
+        "expanded": "EIA/TIA-232"
+    },
+    "RSA": {
+        "expanded": "Rivest, Shamir, and Adelman (a public-key cryptographic system)"
+    },
+    "RSC": {
+        "expanded": "route switch controller"
+    },
+    "RSCPB": {
+        "expanded": "RSC front panel push button"
+    },
+    "RSCV": {
+        "expanded": "Route Selection Control Vector"
+    },
+    "rsh": {
+        "expanded": "remote shell"
+    },
+    "RSM": {
+        "expanded": "Route Switch Module"
+    },
+    "RSP": {
+        "expanded": "Route Switch Processor"
+    },
+    "RSPAN": {
+        "expanded": "Remote Switched Port Analyzer"
+    },
+    "RSRB": {
+        "expanded": "remote source-route bridging"
+    },
+    "RSRC": {
+        "expanded": "Resource"
+    },
+    "RSVP": {
+        "expanded": "Resource Reservation Protocol"
+    },
+    "RTAL": {
+        "expanded": "Receive Telecombus Aligner/Interface"
+    },
+    "RTC": {
+        "expanded": "real-time console"
+    },
+    "RTM": {
+        "expanded": "Real Time Monitor"
+    },
+    "RTP": {
+        "expanded": "Rapid Transport Protocol; Real-Time Transport Protocol"
+    },
+    "RTR": {
+        "expanded": "response time reporter"
+    },
+    "RTS": {
+        "expanded": "Request To Send"
+    },
+    "RTT": {
+        "expanded": "round-trip time"
+    },
+    "RTTMON": {
+        "expanded": "Round Trip Time Monitor"
+    },
+    "RU": {
+        "expanded": "request/response unit"
+    },
+    "RUDP": {
+        "expanded": "Reliable User Data Protocol"
+    },
+    "Rx": {
+        "expanded": "Receive"
+    },
+    "RXP": {
+        "expanded": "Resonate Exchange Protocol"
+    },
+    "SA": {
+        "expanded": "security association; Source-Active; Service Assurance"
+    },
+    "SADB": {
+        "expanded": "security association database"
+    },
+    "SAF24": {
+        "expanded": "SAR adapter FPGA OC24"
+    },
+    "SAFI": {
+        "expanded": "Subsequent Address Family Identifier"
+    },
+    "SAP": {
+        "expanded": "service access point"
+    },
+    "SAR": {
+        "expanded": "segmentation and reassembly"
+    },
+    "SBE": {
+        "expanded": "single-bit error"
+    },
+    "SC": {
+        "expanded": "Undefined"
+    },
+    "SCB": {
+        "expanded": "storage control blocks; system control board"
+    },
+    "SCC": {
+        "expanded": "Signaling Connection Control"
+    },
+    "SCCP": {
+        "expanded": "Signaling Connection Control Part"
+    },
+    "SCM": {
+        "expanded": "Service Connection Manager"
+    },
+    "SCP": {
+        "expanded": "Service Control Point; Switch-Module Configuration Protocol; System Control Protocol"
+    },
+    "SCR": {
+        "expanded": "sustained cell rate"
+    },
+    "SDCC": {
+        "expanded": "Serial Data Communication Channel"
+    },
+    "SDEE": {
+        "expanded": "Security Device Event Exchange"
+    },
+    "SDF": {
+        "expanded": "Signature Definition File"
+    },
+    "SDLC": {
+        "expanded": "Synchronous Data Link Control"
+    },
+    "SDLLC": {
+        "expanded": "Synchronous Data Logical Link Control"
+    },
+    "SDM": {
+        "expanded": "Security Device Manager"
+    },
+    "SDP": {
+        "expanded": "Session Description Protocol; Shelf Discovery Protocol"
+    },
+    "SDRAM": {
+        "expanded": "synchronous DRAM"
+    },
+    "SDT": {
+        "expanded": "Start Data Transfer"
+    },
+    "SEF": {
+        "expanded": "severely errored frames"
+    },
+    "SERDES": {
+        "expanded": "Serializer-Deserializer"
+    },
+    "SFC": {
+        "expanded": "switch fabric card"
+    },
+    "SFP": {
+        "expanded": "Small Form Factor Pluggable"
+    },
+    "SGBP": {
+        "expanded": "Stack Group Bidding Protocol"
+    },
+    "SGCP": {
+        "expanded": "Simple Gateway Control Protocol"
+    },
+    "SGSN": {
+        "expanded": "Serving GPRS Support Node"
+    },
+    "SID": {
+        "expanded": "Service ID"
+    },
+    "SIM": {
+        "expanded": "Undefined"
+    },
+    "SIMM": {
+        "expanded": "single in-line memory module"
+    },
+    "SIP": {
+        "expanded": "Session Initiation Protocol"
+    },
+    "SLARP": {
+        "expanded": "Serial Line Address Resolution Protocol"
+    },
+    "SLB": {
+        "expanded": "Server Load Balancing"
+    },
+    "SLC": {
+        "expanded": "signaling link code"
+    },
+    "SLCI": {
+        "expanded": "Signaling Link Code Interface"
+    },
+    "SLIC": {
+        "expanded": "Subscriber Line Interface Circuit"
+    },
+    "SLIP": {
+        "expanded": "Serial Line Internet Protocol"
+    },
+    "SLU": {
+        "expanded": "secondary logical unit"
+    },
+    "SM": {
+        "expanded": "sparse mode; state machine"
+    },
+    "SMbus": {
+        "expanded": "System Management bus"
+    },
+    "SMDS": {
+        "expanded": "Switched Multimegabit Data Service"
+    },
+    "SME": {
+        "expanded": "Signature Micro Engine"
+    },
+    "SMRP": {
+        "expanded": "Simple Multicast Routing Protocol"
+    },
+    "SMTP": {
+        "expanded": "Simple Mail Transfer Protocol"
+    },
+    "SNA": {
+        "expanded": "Systems Network Architecture"
+    },
+    "SNASw": {
+        "expanded": "SNA Switching Services"
+    },
+    "SNMP": {
+        "expanded": "Simple Network Management Protocol"
+    },
+    "SNR": {
+        "expanded": "signal-to-noise ratio"
+    },
+    "SNRM": {
+        "expanded": "Set Normal Response"
+    },
+    "SO-DIMM": {
+        "expanded": "Small Outline Dual In-line Memory Modules"
+    },
+    "SOF": {
+        "expanded": "start-of-frame"
+    },
+    "SOP": {
+        "expanded": "Second-Generation Packet-over-SONET"
+    },
+    "SP": {
+        "expanded": "Switch Processor"
+    },
+    "SPA": {
+        "expanded": "Shared Port Adapter"
+    },
+    "SPAN": {
+        "expanded": "Switched Port Analyzer"
+    },
+    "SPD": {
+        "expanded": "Security Policy Database"
+    },
+    "SPE": {
+        "expanded": "service processing element"
+    },
+    "SPI": {
+        "expanded": "security parameter index"
+    },
+    "SPI4": {
+        "expanded": "Unavailable."
+    },
+    "SPID": {
+        "expanded": "service profile identifier"
+    },
+    "SPM": {
+        "expanded": "source path message"
+    },
+    "SPMM": {
+        "expanded": "SIMM DSP module"
+    },
+    "SRA": {
+        "expanded": "Seamless Rate Adaptation; source routing accelerator"
+    },
+    "SRAM": {
+        "expanded": "static RAM"
+    },
+    "SRC": {
+        "expanded": "Switch Redundancy Controller"
+    },
+    "SRCP": {
+        "expanded": "Simple Resource Coordination Protocol"
+    },
+    "SRDB": {
+        "expanded": "source route relational database"
+    },
+    "SRIC": {
+        "expanded": "Sculptor Input Controller"
+    },
+    "SRIF": {
+        "expanded": "Sculptor Interface"
+    },
+    "SROC": {
+        "expanded": "Sculptor Output Controller"
+    },
+    "SRP": {
+        "expanded": "Server Redundancy Protocol; Spatial Reuse Protocol"
+    },
+    "SRR": {
+        "expanded": "Single Ring Recovery Protocol"
+    },
+    "SSA": {
+        "expanded": "Serial Storage Architecture"
+    },
+    "SSCOP": {
+        "expanded": "Service-Specific Connection-Oriented Protocol"
+    },
+    "SSCP": {
+        "expanded": "system services control points"
+    },
+    "SSE": {
+        "expanded": "silicon switching engine"
+    },
+    "SSG": {
+        "expanded": "Service Selection Gateway"
+    },
+    "SSH": {
+        "expanded": "Secure Shell"
+    },
+    "SSL": {
+        "expanded": "Secure Socket Layer"
+    },
+    "SSM": {
+        "expanded": "Single State Mode; Source Specific Multicast"
+    },
+    "SSO": {
+        "expanded": "Stateful SwitchOver"
+    },
+    "SSP": {
+        "expanded": "Silicon Switch Processor; state synchronization protocol"
+    },
+    "SSRAM": {
+        "expanded": "synchronous static RAM"
+    },
+    "SSRP": {
+        "expanded": "Simple Server Redundancy Protocol"
+    },
+    "SSS": {
+        "expanded": "Subscriber Service Switching"
+    },
+    "SSTP": {
+        "expanded": "Shared Spanning-Tree Protocol"
+    },
+    "STP": {
+        "expanded": "Spanning-Tree Protocol"
+    },
+    "STUN": {
+        "expanded": "serial tunnel"
+    },
+    "SU": {
+        "expanded": "service unit; signaling unit"
+    },
+    "SVC": {
+        "expanded": "switched virtual circuit"
+    },
+    "SVI": {
+        "expanded": "switched virtual interface"
+    },
+    "SVIP": {
+        "expanded": "Versatile Interface Processor 2"
+    },
+    "SW56": {
+        "expanded": "switched 56K"
+    },
+    "SWIDB": {
+        "expanded": "software for Interface Descriptor Block"
+    },
+    "SYSMGT": {
+        "expanded": "system management"
+    },
+    "TAC": {
+        "expanded": "Cisco Technical Assistance Center"
+    },
+    "TACACS": {
+        "expanded": "Terminal Access Controller Access Control System"
+    },
+    "TAZ-B": {
+        "expanded": "Undefined"
+    },
+    "TBB": {
+        "expanded": "to backplane buffer"
+    },
+    "TBI": {
+        "expanded": "Ten Bit Interface"
+    },
+    "TBM": {
+        "expanded": "Transmit Buffer Manager"
+    },
+    "TCA": {
+        "expanded": "telecommunications access method"
+    },
+    "TCATM": {
+        "expanded": "Tag Control ATM"
+    },
+    "TCAM": {
+        "expanded": "Ternary Content Addressable Memory"
+    },
+    "TCB": {
+        "expanded": "Transmission Control Block"
+    },
+    "TCL": {
+        "expanded": "Toolkit Command Language"
+    },
+    "TCP": {
+        "expanded": "Transmission Control Protocol"
+    },
+    "TDM": {
+        "expanded": "time-division multiplexing"
+    },
+    "TDP": {
+        "expanded": "Tag Distribution Protocol"
+    },
+    "TDR": {
+        "expanded": "time domain reflectometer"
+    },
+    "TE": {
+        "expanded": "terminal equipment; tunnel equipment"
+    },
+    "TE3": {
+        "expanded": "Undefined"
+    },
+    "TED": {
+        "expanded": "Tunnel Endpoint Discovery"
+    },
+    "TEI": {
+        "expanded": "terminal endpoint identifier"
+    },
+    "TFIB": {
+        "expanded": "Tag Forwarding Information Base"
+    },
+    "TFTP": {
+        "expanded": "Trivial File Transfer Protocol"
+    },
+    "TG": {
+        "expanded": "transmission group"
+    },
+    "TIB": {
+        "expanded": "Tag Information Base"
+    },
+    "TIM": {
+        "expanded": "Tree Information Base"
+    },
+    "TIC": {
+        "expanded": "Toaster Input Controller"
+    },
+    "TID": {
+        "expanded": "Terminal Identifier"
+    },
+    "TIFF": {
+        "expanded": "tagged image file format"
+    },
+    "TLB": {
+        "expanded": "translation look-aside buffer"
+    },
+    "TLV": {
+        "expanded": "type, length, value"
+    },
+    "TMQ": {
+        "expanded": "terminal port queueing"
+    },
+    "ToS": {
+        "expanded": "Type of Service"
+    },
+    "TP": {
+        "expanded": "Transport Protocol"
+    },
+    "TR": {
+        "expanded": "Token Ring"
+    },
+    "TRANGE": {
+        "expanded": "time-range"
+    },
+    "TSC": {
+        "expanded": "Tag Switch Controller"
+    },
+    "TSCAM": {
+        "expanded": "Traffic Shaping Carrier Access Module"
+    },
+    "TSI": {
+        "expanded": "transmitting subscriber information"
+    },
+    "TSP": {
+        "expanded": "tag-switched path"
+    },
+    "TT": {
+        "expanded": "Undefined"
+    },
+    "TT2RP": {
+        "expanded": "Toaster-to-RP"
+    },
+    "TTAL": {
+        "expanded": "Transmit Telecombus Aligner/Interface"
+    },
+    "TTL": {
+        "expanded": "time to live"
+    },
+    "TVC": {
+        "expanded": "tag switched controlled virtual circuit; tag virtual circuits"
+    },
+    "Tx": {
+        "expanded": "transmit"
+    },
+    "UA": {
+        "expanded": "unnumbered acknowledgement"
+    },
+    "UART": {
+        "expanded": "Universal Asynchronous Receiver/Transmitter"
+    },
+    "UCB": {
+        "expanded": "University of California, Berkeley"
+    },
+    "Ucode": {
+        "expanded": "Microcode"
+    },
+    "UDF": {
+        "expanded": "Undefined"
+    },
+    "UDLD": {
+        "expanded": "UniDirectional Link Detection"
+    },
+    "UDP": {
+        "expanded": "User Datagram Protocol"
+    },
+    "UPF": {
+        "expanded": "Undefined"
+    },
+    "UPS": {
+        "expanded": "uninterruptible power supply"
+    },
+    "URM": {
+        "expanded": "Universal Router Module"
+    },
+    "uRPF": {
+        "expanded": "Unicast Reverse Path Forwarding"
+    },
+    "VACL": {
+        "expanded": "VLAN access control list"
+    },
+    "VAD": {
+        "expanded": "voice activity detection"
+    },
+    "VBR": {
+        "expanded": "variable bit rate"
+    },
+    "VBR-nRT": {
+        "expanded": "variable bit rate—non-real time"
+    },
+    "VC": {
+        "expanded": "virtual circuit"
+    },
+    "VCC": {
+        "expanded": "virtual channel connection"
+    },
+    "VCD": {
+        "expanded": "virtual circuit descriptor"
+    },
+    "VCCI": {
+        "expanded": "Virtual Channel Common Index"
+    },
+    "VCHAN": {
+        "expanded": "virtual channel"
+    },
+    "VCI": {
+        "expanded": "virtual channel identifier [ ATM only]"
+    },
+    "VCN": {
+        "expanded": "virtual circuit number"
+    },
+    "VDSL": {
+        "expanded": "very high bitrate digital subscriber line"
+    },
+    "VFC": {
+        "expanded": "voice feature card; VoIP feature card"
+    },
+    "VFR": {
+        "expanded": "Virtual Fragment Reassembly"
+    },
+    "VG": {
+        "expanded": "voice gateway"
+    },
+    "VIC": {
+        "expanded": "voice interface card"
+    },
+    "VIP": {
+        "expanded": "Versatile Interface Processor"
+    },
+    "VLAN": {
+        "expanded": "virtual LAN"
+    },
+    "VMAC": {
+        "expanded": "Virtual MAC"
+    },
+    "VMPS": {
+        "expanded": "VLAN Membership Policy Server"
+    },
+    "VMR": {
+        "expanded": "value, mask, result"
+    },
+    "VNM": {
+        "expanded": "Voice Network Manager"
+    },
+    "VoIP": {
+        "expanded": "Voice over IP"
+    },
+    "VP": {
+        "expanded": "virtual path"
+    },
+    "VPC": {
+        "expanded": "virtual path connection"
+    },
+    "VPD": {
+        "expanded": "voice packet driver"
+    },
+    "VPDN": {
+        "expanded": "Virtual Private Dialup Network"
+    },
+    "VPI": {
+        "expanded": "virtual path identifier"
+    },
+    "VPN": {
+        "expanded": "Virtual Private Network"
+    },
+    "VPNv4": {
+        "expanded": "Virtual Private Network version 4"
+    },
+    "VQP": {
+        "expanded": "VLAN Query Protocol"
+    },
+    "VQPC": {
+        "expanded": "VQP client"
+    },
+    "VRF": {
+        "expanded": "VPN Routing and Forwarding"
+    },
+    "VRRP": {
+        "expanded": "Virtual Router Redundancy Protocol"
+    },
+    "VSI": {
+        "expanded": "Virtual Switch Interface"
+    },
+    "VSM": {
+        "expanded": "Voice Service Manager"
+    },
+    "VT": {
+        "expanded": "virtual terminal"
+    },
+    "VTAM": {
+        "expanded": "virtual telecommunications access method"
+    },
+    "VTMS": {
+        "expanded": "Versatile Traffic Management and Shaping"
+    },
+    "VTP": {
+        "expanded": "VLAN Trunk Protocol"
+    },
+    "VTSP": {
+        "expanded": "voice telephony service provider"
+    },
+    "VTT": {
+        "expanded": "voltage termination"
+    },
+    "VWIC": {
+        "expanded": "Voice/WAN interface card"
+    },
+    "WCCP": {
+        "expanded": "Web Cache Communication Protocol"
+    },
+    "WCS": {
+        "expanded": "writable control store"
+    },
+    "WDS": {
+        "expanded": "Wireless Domain Services"
+    },
+    "WIC": {
+        "expanded": "WAN interface card"
+    },
+    "WLM": {
+        "expanded": "Workload Manager"
+    },
+    "WRED": {
+        "expanded": "Weighted Random Early Detection"
+    },
+    "WWW": {
+        "expanded": "World Wide Web"
+    },
+    "XCA": {
+        "expanded": "external communication adapter"
+    },
+    "XCVR": {
+        "expanded": "transceiver"
+    },
+    "XDR": {
+        "expanded": "eXternal Data Representation"
+    },
+    "XID": {
+        "expanded": "exchange identification"
+    },
+    "XML": {
+        "expanded": "eXtensible Markup Language"
+    },
+    "XNS": {
+        "expanded": "Xerox Network Systems"
+    },
+    "XOT": {
+        "expanded": "X.25-over-TCP"
+    },
+    "XTagATM": {
+        "expanded": "extended tag ATM"
+    },
+    "ZBT": {
+        "expanded": "zero bus turnaround"
     }
 }
