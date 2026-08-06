@@ -3,15 +3,20 @@
         <meta charset="utf-8">
         <title>AcroCatcher</title>
         <link rel="stylesheet" href="./popup.css">
-        <script src="./popup.js"></script> 
+        <script type="module" src="./popup.js"></script> 
     </head>
     <body>
         
         <header>
             <h1>AcroCatcher</h1>
+            <button type="button" id="scan" class="small-button">Scan</button>
+            <div class="widgets">
+		    <input id="searchterm" type="text" size="10" maxlength="10" placeholder="Find An Acro"/>
+            <button type="button" id="search" class="small-button">Search</button>
+	</div>
         </header>
         <div class = "content">
-            <button type="button" id="scan" class="scan-button">Scan</button>
+            
             <div id="entries">
                 <div class="entry">
                     <h2></h2>

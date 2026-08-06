@@ -1,4 +1,21 @@
-body
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: auto; /* Prevents scrollbar clipping during layout calculation */
+}
+
+body {
+  width: 380px;
+  min-height: 300px;
+  background-color: #1C7293;
+  display: grid;
+  grid-template-rows: 60px auto;
+  margin: 0;
+}
+
+/* body
 {
     max-width: 400px;
     max-height: 800px;
@@ -10,7 +27,7 @@ body
     "content";
     margin: 0px;
     box-shadow: 0px -100px;
-}
+} */
 
 header
 {

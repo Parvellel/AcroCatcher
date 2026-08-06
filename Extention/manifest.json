@@ -2,13 +2,19 @@
   "manifest_version": 3,
   "name": "AcroCatcher",
   "version": "1.0",
-  "permissions": ["activeTab", "scripting", "storage"],
+  "permissions": ["activeTab", "scripting", "storage", "<all_urls>"],
   "host_permissions": [
     "https://raw.githubusercontent.com/Parvellel/AcroCatcher/refs/heads/main/AcroCatcherDataHub.json"
   ],
   "background": { "service_worker": "background.js" },
-  "action": { 
+  "action": {
     "default_popup": "popup.html",
-    "default_title": "Look up acronyms on this page" 
-  }
+    "default_title": "Look up acronyms on this page"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["./lib/pdf/build/pdf.mjs", "./lib/pdf/build/pdf.worker.mjs"],
+      "matches": ["<all_urls>"]
+    }
+  ]
 }
